@@ -47,7 +47,7 @@
   "dependencies": {
     "lib0": "^0.2.31",
     "lodash.debounce": "^4.0.8",
-    "y-protocols": "^1.0.1"
+    "y-protocols": "^1.0.5"
   },
   "devDependencies": {
     "rollup": "^1.32.1",
